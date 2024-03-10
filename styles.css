@@ -1,0 +1,11 @@
+body {
+    padding-top: 20px;
+    padding-bottom: 40px;
+    background-color: red;
+    color: white;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
